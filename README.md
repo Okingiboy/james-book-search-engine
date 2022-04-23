@@ -1,4 +1,4 @@
-# book-search-engine-graphql-api-mern
+# james-book-search-engine
 
 ## Description
 
