@@ -87,7 +87,7 @@ https://pure-eyrie-09555.herokuapp.com/
 
 ## Usage 
 This application will allow users to search for books either from the main author or publishers page. Users can then.<br>
-Please view deployed application on [Heroku]https://pure-eyrie-09555.herokuapp.com//)<br>
+Please view deployed application on [Heroku]https://evening-bastion-68850.herokuapp.com//<br>
 
 ## COPY RIGHT
 2022 James Chukwu
